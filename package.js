@@ -1,9 +1,9 @@
 Package.describe({
-  name: 'nourharidy:ssl',
-  version: '0.2.2',
+  name: 'aramk:ssl',
+  version: '0.1.0',
   summary: 'Sexy SSL support for Meteor',
   documentation: 'README.md',
-  git: 'https://github.com/nourharidy/meteor-ssl.git'
+  git: 'https://github.com/aramk/meteor-ssl.git'
 });
 
 Package.onUse(function(api) {
@@ -15,4 +15,4 @@ Package.onUse(function(api) {
   api.export('switchHTTPS', 'client');
 });
 
-Npm.depends({"http-proxy":"1.9.0"});
+Npm.depends({'http-proxy':'1.9.0'});

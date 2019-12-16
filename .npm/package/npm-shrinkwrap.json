@@ -1,13 +1,20 @@
 {
+  "lockfileVersion": 1,
   "dependencies": {
     "http-proxy": {
       "version": "1.9.0",
+      "resolved": "https://registry.npmjs.org/http-proxy/-/http-proxy-1.9.0.tgz",
+      "integrity": "sha1-rbuZtVAn4V6ALvMnN9LeO4jvUqY=",
       "dependencies": {
         "eventemitter3": {
-          "version": "0.1.6"
+          "version": "0.1.6",
+          "resolved": "https://registry.npmjs.org/eventemitter3/-/eventemitter3-0.1.6.tgz",
+          "integrity": "sha1-jHrES4e6q1XNUMgo3Dh3jqwFLqU="
         },
         "requires-port": {
-          "version": "0.0.0"
+          "version": "0.0.0",
+          "resolved": "https://registry.npmjs.org/requires-port/-/requires-port-0.0.0.tgz",
+          "integrity": "sha1-2ZFNzhJNPV51zto4ylQ0Bp9xMrM="
         }
       }
     }
