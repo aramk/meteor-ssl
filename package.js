@@ -1,6 +1,6 @@
 Package.describe({
   name: 'aramk:ssl',
-  version: '0.1.0',
+  version: '0.1.1',
   summary: 'Sexy SSL support for Meteor',
   documentation: 'README.md',
   git: 'https://github.com/aramk/meteor-ssl.git'
